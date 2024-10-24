@@ -49,7 +49,7 @@ from functools import reduce
 
 l = [1, 2, 3, 4, 5]
 total = reduce(lambda x, y: x + y, l)
-print(total)  # Output: 15
+print(total) 
 
 from functools import reduce 
 
