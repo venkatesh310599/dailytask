@@ -1,4 +1,4 @@
-# Types os argument :
+# Types of argument :
 
 ## 1 : Position argument :
 
