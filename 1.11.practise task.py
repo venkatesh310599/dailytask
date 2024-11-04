@@ -169,6 +169,6 @@ emp_bonus=int(input("enter your bonus for your salary:"))
 for employee in emp:
     employee.dispaly()
     sum=employee.total_salary()
-    print(sum)    
+    print(sum)   
  
  
